@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/src/week_4_exercises/build/devel/setup.sh

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libgmockd.so -o ../../lib/libgmockd.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/src/week_4_exercises/build/lib ../../lib/libgtestd.so -lpthread 

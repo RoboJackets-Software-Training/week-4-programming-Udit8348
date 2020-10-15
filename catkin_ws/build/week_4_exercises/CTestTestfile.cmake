@@ -6,5 +6,3 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("testing")
 subdirs("exercise_4_1")
-subdirs("exercise_4_2")
-subdirs("exercise_4_3")

@@ -1,0 +1,8 @@
+prefix=/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/src/week_4_exercises/build/devel
+
+Name: week_4_exercises
+Description: Description of week_4_exercises
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

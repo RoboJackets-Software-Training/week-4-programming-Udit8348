@@ -765,45 +765,6 @@ your_node/fast:
 	$(MAKE) -f week_4_exercises/exercise_4_1/CMakeFiles/your_node.dir/build.make week_4_exercises/exercise_4_1/CMakeFiles/your_node.dir/build
 .PHONY : your_node/fast
 
-#=============================================================================
-# Target rules for targets named rqt_plot_node
-
-# Build rule for target.
-rqt_plot_node: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 rqt_plot_node
-.PHONY : rqt_plot_node
-
-# fast build rule for target.
-rqt_plot_node/fast:
-	$(MAKE) -f week_4_exercises/exercise_4_2/CMakeFiles/rqt_plot_node.dir/build.make week_4_exercises/exercise_4_2/CMakeFiles/rqt_plot_node.dir/build
-.PHONY : rqt_plot_node/fast
-
-#=============================================================================
-# Target rules for targets named custom_message_node_pub
-
-# Build rule for target.
-custom_message_node_pub: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 custom_message_node_pub
-.PHONY : custom_message_node_pub
-
-# fast build rule for target.
-custom_message_node_pub/fast:
-	$(MAKE) -f week_4_exercises/exercise_4_3/CMakeFiles/custom_message_node_pub.dir/build.make week_4_exercises/exercise_4_3/CMakeFiles/custom_message_node_pub.dir/build
-.PHONY : custom_message_node_pub/fast
-
-#=============================================================================
-# Target rules for targets named custom_message_node_sub
-
-# Build rule for target.
-custom_message_node_sub: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 custom_message_node_sub
-.PHONY : custom_message_node_sub
-
-# fast build rule for target.
-custom_message_node_sub/fast:
-	$(MAKE) -f week_4_exercises/exercise_4_3/CMakeFiles/custom_message_node_sub.dir/build.make week_4_exercises/exercise_4_3/CMakeFiles/custom_message_node_sub.dir/build
-.PHONY : custom_message_node_sub/fast
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -863,9 +824,6 @@ help:
 	@echo "... actionlib_msgs_generate_messages_lisp"
 	@echo "... testing_node"
 	@echo "... your_node"
-	@echo "... rqt_plot_node"
-	@echo "... custom_message_node_pub"
-	@echo "... custom_message_node_sub"
 .PHONY : help
 
 

@@ -1,9 +1,7 @@
 #include <ros/ros.h>
-#include <std_msgs/String.h>
-
 
 // -= (EXERCISE 1) add the include for the string message! =-
-
+#include <std_msgs/String.h>
 // -========================================================-
 
 // -= (EXERCISE 1) your callback function should be defined here! =-

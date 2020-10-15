@@ -56,8 +56,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/build/week_4_exercises/testing/cmake_install.cmake")
   include("/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/build/week_4_exercises/exercise_4_1/cmake_install.cmake")
-  include("/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/build/week_4_exercises/exercise_4_2/cmake_install.cmake")
-  include("/home/vagrant/RoboJackets/software-training/week-4-programming-Udit8348/catkin_ws/build/week_4_exercises/exercise_4_3/cmake_install.cmake")
 
 endif()
 
