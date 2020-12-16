@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: week_4_exercises
+Description: Description of week_4_exercises
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
